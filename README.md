@@ -1,3 +1,11 @@
+<h1>akun superadmin untuk login</h1>
+<p>email : andiragilwicaksono@gmail.com</p>
+<p>password : cobacoba</p>
+<br>
+<h1>akun admin untuk login</h1>
+<p>email : member2@gmail.com</p>
+<p>password : cobacoba</p>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
